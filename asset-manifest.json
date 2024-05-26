@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blog-card/static/css/main.74c4d8ae.css",
+    "main.js": "/blog-card/static/js/main.96edc6a7.js",
+    "static/js/453.df85c617.chunk.js": "/blog-card/static/js/453.df85c617.chunk.js",
+    "static/media/spacejoy-YqFz7UMm8qE-unsplash.jpg": "/blog-card/static/media/spacejoy-YqFz7UMm8qE-unsplash.a4be3f5c2a3d3a0c0708.jpg",
+    "index.html": "/blog-card/index.html",
+    "static/media/Vector.svg": "/blog-card/static/media/Vector.0357e109af8fe60f81106126e2aa1c30.svg",
+    "main.74c4d8ae.css.map": "/blog-card/static/css/main.74c4d8ae.css.map",
+    "main.96edc6a7.js.map": "/blog-card/static/js/main.96edc6a7.js.map",
+    "453.df85c617.chunk.js.map": "/blog-card/static/js/453.df85c617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c4d8ae.css",
+    "static/js/main.96edc6a7.js"
+  ]
+}
