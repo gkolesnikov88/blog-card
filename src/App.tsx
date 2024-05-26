@@ -1,11 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Card from "./components/card/Card";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="container">
+        <Card 
+          tags={["Interior"]}
+          header="Top 5 Living Room Inspirations"
+          description="Curated vibrants colors for your living, make it pop & calm in the same time."
+        />
+      </div>
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
@@ -18,7 +26,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
     </div>
   );
 }
